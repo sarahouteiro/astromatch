@@ -9,7 +9,7 @@ export const Container = styled.div`
 
 export const BoxMatch = styled.div`
     background-color: #F4E1D4;
-    height: auto;
+    height: 690px;
     width: 450px;
     margin: 0 auto;
     border: solid 1px black;

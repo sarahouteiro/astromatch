@@ -9,7 +9,7 @@ export const Container = styled.div`
 
 export const BoxMatch = styled.div`
     background-color: #F4E1D4;
-    height: auto;
+    height: 690px;
     width: 450px;
     margin: 0 auto;
     border: solid 1px black;
@@ -20,8 +20,11 @@ export const BoxMatch = styled.div`
     }
 `
 export const CaixaMatches = styled.div`
-    height: 70vh;
+    height: 67vh;
     overflow-y: scroll;
+    &::-webkit-scrollbar {
+    display: none;
+    }
     padding-top: 15px;
 `
 export const Titulo = styled.div`
