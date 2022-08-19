@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <a id="Projeto"></a>
 ## 💻 Projeto
   Este projeto foi desenvolvido com base no curso  *__Web Full Stack Integral__* da [Labenu](https://www.labenu.com.br/). Esta aplicação é uma plataforma inspirada na rede social Tinder, É possível escolher perfis de personagens ideais para dar match ou não para fazer amizade. O projeto possui duas áreas principais: Área de escolher os Matches e a área com a lista de matches feitos, sendo possível recomeçar todo o processo de dar match assim que todos os perfis forem vistos e escolhidos ou não.
-## Link - https://labex-beta.vercel.app/
+## Link - [https://labex-beta.vercel.app/](https://astromatch-seven.vercel.app/)
   
 <a id="Instalação"></a>
 ## ❤️ Instalação
