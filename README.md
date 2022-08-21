@@ -7,13 +7,13 @@ AstroMatch<br/><br/>
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sarahouteiro/labex">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sarahouteiro/astromatch">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/sarahouteiro/labex">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/sarahouteiro/astromatch">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sarahouteiro/labex">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sarahouteiro/astromatch">
 
-  <img alt="Repository issues" src="https://img.shields.io/github/issues/sarahouteiro/labex">
+  <img alt="Repository issues" src="https://img.shields.io/github/issues/sarahouteiro/astromatch">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
