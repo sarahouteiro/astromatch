@@ -1,9 +1,7 @@
 <h1 align="center">
 AstroMatch<br/><br/>
 
-
-
-<img src="https://user-images.githubusercontent.com/104728985/185706215-ef09d68f-3e9d-46ea-90f1-37a815dedc37.png"/> 
+<img width="150px" src="https://user-images.githubusercontent.com/104728985/185799863-181784f5-f30c-4f5d-bd1f-a779f399728c.png"/> 
 </h1>
 
 <p align="center">
